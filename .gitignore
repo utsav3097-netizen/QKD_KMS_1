@@ -1,0 +1,35 @@
+# Python virtual environment
+myenv/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# images
+
+
+# Environment variables
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Node / React
+frontend/node_modules/
+frontend/build/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
