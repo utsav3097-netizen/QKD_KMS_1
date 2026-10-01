@@ -399,6 +399,3 @@ Potential next steps include:
 
 This repository is an engineering project and should not be treated as a certified telecommunications or cryptographic product. Conformance to ETSI QKD 014 requires verification against the applicable specification version, interoperability requirements, security controls, and deployment environment.
 
-## License
-
-Add the project's license information here.
